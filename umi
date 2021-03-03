@@ -1,0 +1,3 @@
+emoji = discord.utils.get(jojo is gay.emojis, name="hataoncanadags3")
+
+str(emoji)
